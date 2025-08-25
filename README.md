@@ -5,7 +5,7 @@ Project Reflection
 
 Designing Software
 
-When approaching software design, I start by identifying the problem I want to solve and then break it down into smaller, manageable components. I consider how these components will interact and what data each part needs to function effectively. During this project, I developed new skills in structuring modular code, such as separating the logic for bricks, the paddle, and the ball. I learned to think not only about functionality but also about flexibility, maintainability, and readability. Following a design process—starting with planning, sketching out interactions, and then iterating—helped me create a system that is easy to extend, such as adding new types of bricks or modifying ball behavior. These tactics will be valuable in future projects, allowing me to approach new software challenges methodically while keeping scalability in mind.
+When approaching software design, I start by identifying the problem I want to solve and then break it down into smaller, manageable components. I consider how these components will interact and what data each part needs to function effectively. During this project, I developed new skills in structuring modular code, such as separating the logic for bricks, the paddle, and the ball. I learned to think not only about functionality but also about flexibility, maintainability, and readability. Following a design process, starting with planning, sketching out interactions, and then iterating, helped me create a system that is easy to extend, such as adding new types of bricks or modifying ball behavior. These tactics will be valuable in future projects, allowing me to approach new software challenges methodically while keeping scalability in mind.
 
 Developing Programs
 
